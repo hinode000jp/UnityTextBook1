@@ -1,0 +1,17 @@
+h1 {
+  margin-bottom: 2em !important;
+}
+p {
+  margin-bottom: 1em !important;
+}
+h2 {
+  color: rgb(66, 66, 66);
+  border-bottom: rgb(66, 66, 66) 2px dashed;
+  margin-top: 2em !important;
+}
+
+.point {
+  border: rgb(42, 165, 138) 2px solid;
+  border-radius: 25px;
+  padding: 1em;
+}
