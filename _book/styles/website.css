@@ -21,7 +21,8 @@ h2 {
   padding: 1em;
 }
 .warning {
-  border: rgb(255, 68, 124) 4px solid;
-  border-radius: 2px;
-  padding: 1em;
+  padding: 0.4em 0.5em; /*文字の上下 左右の余白*/
+  color: #494949; /*文字色*/
+  background: #f4f4f4; /*背景色*/
+  border-left: solid 5px #e67da0; /*左線*/
 }
